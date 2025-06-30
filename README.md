@@ -28,8 +28,11 @@ Font Awesome (Icons)
 /amazon-clone
 
 ├── index.html
+
 ├── style.css
+
 ├── assets/
+
 │   └── images/
 
 🙌 Acknowledgements
