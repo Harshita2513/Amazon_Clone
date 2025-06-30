@@ -6,6 +6,7 @@ This is a responsive front-end Amazon Clone website built using HTML5 and CSS3. 
 
 🔧 Features
 
+
 ✅ Responsive layout for different screen sizes
 
 ✅ Header with logo, search bar, and nav links
@@ -16,12 +17,14 @@ This is a responsive front-end Amazon Clone website built using HTML5 and CSS3. 
 
 ✅ Footer with multiple column layout
 
+
 🛠️ Technologies Used
 
 HTML5
 CSS3
 Flexbox & Grid
 Font Awesome (Icons)
+
 
 📁 Folder Structure
 
@@ -35,9 +38,11 @@ Font Awesome (Icons)
 
 │   └── images/
 
+
 🙌 Acknowledgements
 
 Inspired by the original Amazon.com layout.
+
 
 ✍️ Author : 
 
