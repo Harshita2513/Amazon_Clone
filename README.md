@@ -28,6 +28,6 @@ Font Awesome (Icons)
 🙌 Acknowledgements
 Inspired by the original Amazon.com layout.
 
-✍️ Author
+✍️ Author : 
 Harshita Upadhyay
 GitHub: @Harshita2513
